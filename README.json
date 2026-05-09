@@ -118,7 +118,7 @@
             "last_commit": "2026-04-24T05:18:33Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 27437
+            "stars": 27441
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-05-04T22:42:30Z",
             "owner": "webrecorder",
             "repo": "browsertrix-crawler",
-            "stars": 1031
+            "stars": 1032
           }
         },
         {
@@ -185,7 +185,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-05T11:49:33Z",
+            "last_commit": "2026-05-08T07:37:57Z",
             "owner": "wabarc",
             "repo": "cairn",
             "stars": 51
@@ -250,7 +250,7 @@
             "last_commit": "2026-03-28T09:10:02Z",
             "owner": "DO-SAY-GO",
             "repo": "dn",
-            "stars": 3900
+            "stars": 3901
           }
         },
         {
@@ -289,7 +289,7 @@
             "last_commit": "2025-05-23T09:57:06Z",
             "owner": "ArchiveTeam",
             "repo": "grab-site",
-            "stars": 1567
+            "stars": 1569
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2026-05-01T00:30:18Z",
             "owner": "Y2Z",
             "repo": "monolith",
-            "stars": 15070
+            "stars": 15072
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-02-24T15:52:53Z",
             "owner": "gildas-lormeau",
             "repo": "SingleFile",
-            "stars": 21052
+            "stars": 21058
           }
         },
         {
@@ -463,7 +463,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-01T22:07:43Z",
+            "last_commit": "2026-05-08T17:21:36Z",
             "owner": "internetarchive",
             "repo": "warcprox",
             "stars": 450
@@ -900,8 +900,8 @@
           "title": "FastWARC",
           "repo_info": {
             "archived": false,
-            "language": "Cython",
-            "last_commit": "2026-05-07T15:32:20Z",
+            "language": "Rust",
+            "last_commit": "2026-05-08T16:42:07Z",
             "owner": "chatnoir-eu",
             "repo": "chatnoir-resiliparse",
             "stars": 138
@@ -1047,7 +1047,7 @@
             "last_commit": "2026-04-06T14:16:15Z",
             "owner": "webrecorder",
             "repo": "warcio",
-            "stars": 457
+            "stars": 456
           }
         },
         {
@@ -1216,7 +1216,7 @@
             "last_commit": "2026-05-07T12:45:20Z",
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "stars": 29852
+            "stars": 29856
           }
         },
         {
@@ -1249,7 +1249,7 @@
             "last_commit": "2026-03-19T21:39:05Z",
             "owner": "jordansissel",
             "repo": "xdotool",
-            "stars": 3787
+            "stars": 3788
           }
         },
         {
@@ -1278,7 +1278,7 @@
             "last_commit": "2026-04-24T05:18:33Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 27437
+            "stars": 27441
           }
         },
         {
@@ -1314,7 +1314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-08T05:10:00.913Z",
+    "last_updated": "2026-05-09T05:27:35.633Z",
     "original_repository": "iipc/awesome-web-archiving",
     "source_repository": "v1nvn/enhansome-web-archiving",
     "source_repository_description": null,
