@@ -118,7 +118,7 @@
             "last_commit": "2026-04-24T05:18:33Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 27441
+            "stars": 27444
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2026-03-28T09:10:02Z",
             "owner": "DO-SAY-GO",
             "repo": "dn",
-            "stars": 3901
+            "stars": 3902
           }
         },
         {
@@ -304,7 +304,7 @@
                 "last_commit": "2026-05-03T23:45:51Z",
                 "owner": "internetarchive",
                 "repo": "heritrix3",
-                "stars": 3221
+                "stars": 3222
               }
             },
             {
@@ -329,7 +329,7 @@
             "last_commit": "2026-05-03T23:45:51Z",
             "owner": "internetarchive",
             "repo": "heritrix3",
-            "stars": 3221
+            "stars": 3222
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2026-05-01T00:30:18Z",
             "owner": "Y2Z",
             "repo": "monolith",
-            "stars": 15072
+            "stars": 15074
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-02-24T15:52:53Z",
             "owner": "gildas-lormeau",
             "repo": "SingleFile",
-            "stars": 21058
+            "stars": 21069
           }
         },
         {
@@ -494,7 +494,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-03T13:58:06Z",
+            "last_commit": "2026-05-10T03:39:43Z",
             "owner": "wabarc",
             "repo": "wayback",
             "stars": 2187
@@ -510,7 +510,7 @@
             "last_commit": "2024-02-26T00:15:49Z",
             "owner": "akamhy",
             "repo": "waybackpy",
-            "stars": 577
+            "stars": 576
           }
         },
         {
@@ -1047,7 +1047,7 @@
             "last_commit": "2026-04-06T14:16:15Z",
             "owner": "webrecorder",
             "repo": "warcio",
-            "stars": 456
+            "stars": 457
           }
         },
         {
@@ -1216,7 +1216,7 @@
             "last_commit": "2026-05-07T12:45:20Z",
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "stars": 29856
+            "stars": 29864
           }
         },
         {
@@ -1249,7 +1249,7 @@
             "last_commit": "2026-03-19T21:39:05Z",
             "owner": "jordansissel",
             "repo": "xdotool",
-            "stars": 3788
+            "stars": 3789
           }
         },
         {
@@ -1278,7 +1278,7 @@
             "last_commit": "2026-04-24T05:18:33Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 27441
+            "stars": 27444
           }
         },
         {
@@ -1314,7 +1314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-09T05:27:35.633Z",
+    "last_updated": "2026-05-10T05:43:06.434Z",
     "original_repository": "iipc/awesome-web-archiving",
     "source_repository": "v1nvn/enhansome-web-archiving",
     "source_repository_description": null,
