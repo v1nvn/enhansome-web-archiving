@@ -118,7 +118,7 @@
             "last_commit": "2026-04-24T05:18:33Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 27444
+            "stars": 27452
           }
         },
         {
@@ -289,7 +289,7 @@
             "last_commit": "2025-05-23T09:57:06Z",
             "owner": "ArchiveTeam",
             "repo": "grab-site",
-            "stars": 1569
+            "stars": 1568
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2026-05-01T00:30:18Z",
             "owner": "Y2Z",
             "repo": "monolith",
-            "stars": 15074
+            "stars": 15075
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-02-24T15:52:53Z",
             "owner": "gildas-lormeau",
             "repo": "SingleFile",
-            "stars": 21069
+            "stars": 21080
           }
         },
         {
@@ -497,7 +497,7 @@
             "last_commit": "2026-05-10T03:39:43Z",
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2187
+            "stars": 2186
           }
         },
         {
@@ -609,7 +609,7 @@
             "last_commit": "2026-04-10T22:52:02Z",
             "owner": "webrecorder",
             "repo": "pywb",
-            "stars": 1657
+            "stars": 1656
           }
         },
         {
@@ -651,7 +651,7 @@
             "last_commit": "2026-04-21T16:34:26Z",
             "owner": "medialab",
             "repo": "hyphe",
-            "stars": 378
+            "stars": 379
           }
         },
         {
@@ -1216,7 +1216,7 @@
             "last_commit": "2026-05-07T12:45:20Z",
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "stars": 29864
+            "stars": 29866
           }
         },
         {
@@ -1278,7 +1278,7 @@
             "last_commit": "2026-04-24T05:18:33Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 27444
+            "stars": 27452
           }
         },
         {
@@ -1314,7 +1314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-10T05:43:06.434Z",
+    "last_updated": "2026-05-11T06:06:04.822Z",
     "original_repository": "iipc/awesome-web-archiving",
     "source_repository": "v1nvn/enhansome-web-archiving",
     "source_repository_description": null,
