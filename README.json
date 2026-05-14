@@ -115,10 +115,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-24T05:18:33Z",
+            "last_commit": "2026-05-13T15:37:40Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 27465
+            "stars": 27464
           }
         },
         {
@@ -146,7 +146,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-12T12:59:20Z",
+            "last_commit": "2026-05-13T10:06:00Z",
             "owner": "bellingcat",
             "repo": "auto-archiver",
             "stars": 1078
@@ -159,10 +159,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-12T20:30:10Z",
+            "last_commit": "2026-05-13T22:56:17Z",
             "owner": "webrecorder",
             "repo": "browsertrix-crawler",
-            "stars": 1035
+            "stars": 1036
           }
         },
         {
@@ -185,7 +185,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-12T04:00:35Z",
+            "last_commit": "2026-05-13T23:25:15Z",
             "owner": "wabarc",
             "repo": "cairn",
             "stars": 51
@@ -304,7 +304,7 @@
                 "last_commit": "2026-05-12T07:44:36Z",
                 "owner": "internetarchive",
                 "repo": "heritrix3",
-                "stars": 3224
+                "stars": 3225
               }
             },
             {
@@ -329,7 +329,7 @@
             "last_commit": "2026-05-12T07:44:36Z",
             "owner": "internetarchive",
             "repo": "heritrix3",
-            "stars": 3224
+            "stars": 3225
           }
         },
         {
@@ -373,7 +373,7 @@
             "last_commit": "2026-02-01T07:04:04Z",
             "owner": "go-shiori",
             "repo": "obelisk",
-            "stars": 314
+            "stars": 313
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-02-24T15:52:53Z",
             "owner": "gildas-lormeau",
             "repo": "SingleFile",
-            "stars": 21099
+            "stars": 21101
           }
         },
         {
@@ -583,7 +583,7 @@
             "last_commit": "2026-05-01T19:09:50Z",
             "owner": "oduwsdl",
             "repo": "ipwb",
-            "stars": 650
+            "stars": 651
           }
         },
         {
@@ -744,7 +744,7 @@
             "last_commit": "2026-05-07T12:06:22Z",
             "owner": "netarchivesuite",
             "repo": "solrwayback",
-            "stars": 141
+            "stars": 142
           }
         },
         {
@@ -901,7 +901,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-12T22:45:25Z",
+            "last_commit": "2026-05-13T22:19:06Z",
             "owner": "chatnoir-eu",
             "repo": "chatnoir-resiliparse",
             "stars": 138
@@ -1047,7 +1047,7 @@
             "last_commit": "2026-04-06T14:16:15Z",
             "owner": "webrecorder",
             "repo": "warcio",
-            "stars": 457
+            "stars": 456
           }
         },
         {
@@ -1216,7 +1216,7 @@
             "last_commit": "2026-05-12T21:47:05Z",
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "stars": 29882
+            "stars": 29889
           }
         },
         {
@@ -1249,7 +1249,7 @@
             "last_commit": "2026-03-19T21:39:05Z",
             "owner": "jordansissel",
             "repo": "xdotool",
-            "stars": 3791
+            "stars": 3792
           }
         },
         {
@@ -1275,10 +1275,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-24T05:18:33Z",
+            "last_commit": "2026-05-13T15:37:40Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 27465
+            "stars": 27464
           }
         },
         {
@@ -1314,7 +1314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-13T05:55:10.603Z",
+    "last_updated": "2026-05-14T05:53:48.398Z",
     "original_repository": "iipc/awesome-web-archiving",
     "source_repository": "v1nvn/enhansome-web-archiving",
     "source_repository_description": null,
