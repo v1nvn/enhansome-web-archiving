@@ -41,7 +41,7 @@
             "last_commit": "2026-04-13T11:06:37Z",
             "owner": "commoncrawl",
             "repo": "whirlwind-python",
-            "stars": 44
+            "stars": 45
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-05-25T07:09:27Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 27547
+            "stars": 27556
           }
         },
         {
@@ -149,7 +149,7 @@
             "last_commit": "2026-05-19T17:37:11Z",
             "owner": "bellingcat",
             "repo": "auto-archiver",
-            "stars": 1080
+            "stars": 1081
           }
         },
         {
@@ -159,10 +159,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-13T22:56:17Z",
+            "last_commit": "2026-05-26T23:13:49Z",
             "owner": "webrecorder",
             "repo": "browsertrix-crawler",
-            "stars": 1045
+            "stars": 1046
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-02-24T15:52:53Z",
             "owner": "gildas-lormeau",
             "repo": "SingleFile",
-            "stars": 21306
+            "stars": 21328
           }
         },
         {
@@ -466,7 +466,7 @@
             "last_commit": "2026-05-11T21:45:53Z",
             "owner": "internetarchive",
             "repo": "warcprox",
-            "stars": 450
+            "stars": 451
           }
         },
         {
@@ -510,7 +510,7 @@
             "last_commit": "2024-02-26T00:15:49Z",
             "owner": "akamhy",
             "repo": "waybackpy",
-            "stars": 581
+            "stars": 582
           }
         },
         {
@@ -583,7 +583,7 @@
             "last_commit": "2026-05-01T19:09:50Z",
             "owner": "oduwsdl",
             "repo": "ipwb",
-            "stars": 650
+            "stars": 651
           }
         },
         {
@@ -609,7 +609,7 @@
             "last_commit": "2026-04-10T22:52:02Z",
             "owner": "webrecorder",
             "repo": "pywb",
-            "stars": 1658
+            "stars": 1660
           }
         },
         {
@@ -770,7 +770,7 @@
             "last_commit": "2022-10-14T06:16:41Z",
             "owner": "webis-de",
             "repo": "wasp",
-            "stars": 27
+            "stars": 28
           }
         },
         {
@@ -901,7 +901,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-25T22:18:23Z",
+            "last_commit": "2026-05-26T22:08:30Z",
             "owner": "chatnoir-eu",
             "repo": "chatnoir-resiliparse",
             "stars": 140
@@ -1034,7 +1034,7 @@
             "last_commit": "2025-06-02T09:09:54Z",
             "owner": "chfoo",
             "repo": "warcat-rs",
-            "stars": 30
+            "stars": 31
           }
         },
         {
@@ -1216,7 +1216,7 @@
             "last_commit": "2026-05-21T01:07:10Z",
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "stars": 29961
+            "stars": 29968
           }
         },
         {
@@ -1278,7 +1278,7 @@
             "last_commit": "2026-05-25T07:09:27Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 27547
+            "stars": 27556
           }
         },
         {
@@ -1291,7 +1291,7 @@
             "last_commit": "2026-05-22T20:46:34Z",
             "owner": "machawk1",
             "repo": "awesome-memento",
-            "stars": 113
+            "stars": 115
           }
         },
         {
@@ -1314,7 +1314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-26T06:13:39.737Z",
+    "last_updated": "2026-05-27T06:35:36.559Z",
     "original_repository": "iipc/awesome-web-archiving",
     "source_repository": "v1nvn/enhansome-web-archiving",
     "source_repository_description": null,
