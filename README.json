@@ -115,10 +115,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-01T06:15:18Z",
+            "last_commit": "2026-06-02T04:44:28Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 27599
+            "stars": 27605
           }
         },
         {
@@ -159,7 +159,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-26T23:13:49Z",
+            "last_commit": "2026-06-02T01:00:56Z",
             "owner": "webrecorder",
             "repo": "browsertrix-crawler",
             "stars": 1047
@@ -399,7 +399,7 @@
             "last_commit": "2026-02-24T15:52:53Z",
             "owner": "gildas-lormeau",
             "repo": "SingleFile",
-            "stars": 21391
+            "stars": 21401
           }
         },
         {
@@ -494,10 +494,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-31T13:48:28Z",
+            "last_commit": "2026-06-02T04:49:42Z",
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2195
+            "stars": 2196
           }
         },
         {
@@ -510,7 +510,7 @@
             "last_commit": "2024-02-26T00:15:49Z",
             "owner": "akamhy",
             "repo": "waybackpy",
-            "stars": 583
+            "stars": 584
           }
         },
         {
@@ -609,7 +609,7 @@
             "last_commit": "2026-04-10T22:52:02Z",
             "owner": "webrecorder",
             "repo": "pywb",
-            "stars": 1662
+            "stars": 1663
           }
         },
         {
@@ -1216,7 +1216,7 @@
             "last_commit": "2026-06-01T01:11:01Z",
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "stars": 30017
+            "stars": 30026
           }
         },
         {
@@ -1275,10 +1275,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-01T06:15:18Z",
+            "last_commit": "2026-06-02T04:44:28Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 27599
+            "stars": 27605
           }
         },
         {
@@ -1314,7 +1314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-01T07:08:48.221Z",
+    "last_updated": "2026-06-02T06:49:11.964Z",
     "original_repository": "iipc/awesome-web-archiving",
     "source_repository": "v1nvn/enhansome-web-archiving",
     "source_repository_description": null,
