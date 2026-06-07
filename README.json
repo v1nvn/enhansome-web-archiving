@@ -115,10 +115,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-05T19:09:24Z",
+            "last_commit": "2026-06-07T06:35:01Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 27641
+            "stars": 27652
           }
         },
         {
@@ -185,7 +185,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-05T03:56:31Z",
+            "last_commit": "2026-06-06T19:57:27Z",
             "owner": "wabarc",
             "repo": "cairn",
             "stars": 52
@@ -360,7 +360,7 @@
             "last_commit": "2026-05-25T19:56:03Z",
             "owner": "Y2Z",
             "repo": "monolith",
-            "stars": 15153
+            "stars": 15158
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-02-24T15:52:53Z",
             "owner": "gildas-lormeau",
             "repo": "SingleFile",
-            "stars": 21429
+            "stars": 21438
           }
         },
         {
@@ -440,7 +440,7 @@
             "last_commit": "2025-10-31T18:03:47Z",
             "owner": "DocNow",
             "repo": "twarc",
-            "stars": 1394
+            "stars": 1393
           }
         },
         {
@@ -901,7 +901,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-06-04T21:53:43Z",
+            "last_commit": "2026-06-06T17:12:02Z",
             "owner": "chatnoir-eu",
             "repo": "chatnoir-resiliparse",
             "stars": 141
@@ -1216,7 +1216,7 @@
             "last_commit": "2026-06-01T01:11:01Z",
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "stars": 30072
+            "stars": 30080
           }
         },
         {
@@ -1275,10 +1275,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-05T19:09:24Z",
+            "last_commit": "2026-06-07T06:35:01Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 27641
+            "stars": 27652
           }
         },
         {
@@ -1314,7 +1314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-06T05:59:25.076Z",
+    "last_updated": "2026-06-07T06:37:36.235Z",
     "original_repository": "iipc/awesome-web-archiving",
     "source_repository": "v1nvn/enhansome-web-archiving",
     "source_repository_description": null,
