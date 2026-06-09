@@ -115,10 +115,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-08T04:36:11Z",
+            "last_commit": "2026-06-08T23:33:48Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 27658
+            "stars": 27666
           }
         },
         {
@@ -159,10 +159,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-04T19:51:45Z",
+            "last_commit": "2026-06-08T18:04:06Z",
             "owner": "webrecorder",
             "repo": "browsertrix-crawler",
-            "stars": 1047
+            "stars": 1048
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2026-03-28T09:10:02Z",
             "owner": "DO-SAY-GO",
             "repo": "dn",
-            "stars": 3903
+            "stars": 3902
           }
         },
         {
@@ -301,10 +301,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-06-03T16:56:21Z",
+                "last_commit": "2026-06-08T06:59:01Z",
                 "owner": "internetarchive",
                 "repo": "heritrix3",
-                "stars": 3228
+                "stars": 3229
               }
             },
             {
@@ -326,10 +326,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-06-03T16:56:21Z",
+            "last_commit": "2026-06-08T06:59:01Z",
             "owner": "internetarchive",
             "repo": "heritrix3",
-            "stars": 3228
+            "stars": 3229
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2026-05-25T19:56:03Z",
             "owner": "Y2Z",
             "repo": "monolith",
-            "stars": 15160
+            "stars": 15170
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-02-24T15:52:53Z",
             "owner": "gildas-lormeau",
             "repo": "SingleFile",
-            "stars": 21446
+            "stars": 21452
           }
         },
         {
@@ -609,7 +609,7 @@
             "last_commit": "2026-04-10T22:52:02Z",
             "owner": "webrecorder",
             "repo": "pywb",
-            "stars": 1665
+            "stars": 1667
           }
         },
         {
@@ -901,7 +901,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-06-07T21:40:11Z",
+            "last_commit": "2026-06-08T22:41:41Z",
             "owner": "chatnoir-eu",
             "repo": "chatnoir-resiliparse",
             "stars": 141
@@ -982,7 +982,7 @@
             "last_commit": "2026-05-04T18:35:45Z",
             "owner": "internetarchive",
             "repo": "Sparkling",
-            "stars": 16
+            "stars": 17
           }
         },
         {
@@ -1213,10 +1213,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-06-01T01:11:01Z",
+            "last_commit": "2026-06-09T00:58:04Z",
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "stars": 30088
+            "stars": 30097
           }
         },
         {
@@ -1275,10 +1275,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-08T04:36:11Z",
+            "last_commit": "2026-06-08T23:33:48Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 27658
+            "stars": 27666
           }
         },
         {
@@ -1314,7 +1314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-08T06:53:22.881Z",
+    "last_updated": "2026-06-09T06:15:44.737Z",
     "original_repository": "iipc/awesome-web-archiving",
     "source_repository": "v1nvn/enhansome-web-archiving",
     "source_repository_description": null,
