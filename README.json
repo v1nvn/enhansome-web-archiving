@@ -115,10 +115,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-11T16:28:45Z",
+            "last_commit": "2026-06-12T15:36:57Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 27682
+            "stars": 27690
           }
         },
         {
@@ -149,7 +149,7 @@
             "last_commit": "2026-06-05T02:07:24Z",
             "owner": "bellingcat",
             "repo": "auto-archiver",
-            "stars": 1084
+            "stars": 1085
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-06-10T20:10:27Z",
             "owner": "webrecorder",
             "repo": "browsertrix-crawler",
-            "stars": 1052
+            "stars": 1053
           }
         },
         {
@@ -185,7 +185,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-06T19:57:27Z",
+            "last_commit": "2026-06-12T14:16:52Z",
             "owner": "wabarc",
             "repo": "cairn",
             "stars": 52
@@ -289,7 +289,7 @@
             "last_commit": "2025-05-23T09:57:06Z",
             "owner": "ArchiveTeam",
             "repo": "grab-site",
-            "stars": 1579
+            "stars": 1585
           }
         },
         {
@@ -301,10 +301,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-06-11T04:40:33Z",
+                "last_commit": "2026-06-12T08:20:27Z",
                 "owner": "internetarchive",
                 "repo": "heritrix3",
-                "stars": 3233
+                "stars": 3232
               }
             },
             {
@@ -326,10 +326,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-06-11T04:40:33Z",
+            "last_commit": "2026-06-12T08:20:27Z",
             "owner": "internetarchive",
             "repo": "heritrix3",
-            "stars": 3233
+            "stars": 3232
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2026-05-25T19:56:03Z",
             "owner": "Y2Z",
             "repo": "monolith",
-            "stars": 15184
+            "stars": 15187
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-02-24T15:52:53Z",
             "owner": "gildas-lormeau",
             "repo": "SingleFile",
-            "stars": 21476
+            "stars": 21487
           }
         },
         {
@@ -510,7 +510,7 @@
             "last_commit": "2024-02-26T00:15:49Z",
             "owner": "akamhy",
             "repo": "waybackpy",
-            "stars": 586
+            "stars": 587
           }
         },
         {
@@ -901,7 +901,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-06-11T18:29:35Z",
+            "last_commit": "2026-06-12T17:22:45Z",
             "owner": "chatnoir-eu",
             "repo": "chatnoir-resiliparse",
             "stars": 141
@@ -1216,7 +1216,7 @@
             "last_commit": "2026-06-12T06:27:34Z",
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "stars": 30121
+            "stars": 30128
           }
         },
         {
@@ -1275,10 +1275,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-11T16:28:45Z",
+            "last_commit": "2026-06-12T15:36:57Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 27682
+            "stars": 27690
           }
         },
         {
@@ -1314,7 +1314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-12T06:50:27.068Z",
+    "last_updated": "2026-06-13T06:23:42.120Z",
     "original_repository": "iipc/awesome-web-archiving",
     "source_repository": "v1nvn/enhansome-web-archiving",
     "source_repository_description": null,
